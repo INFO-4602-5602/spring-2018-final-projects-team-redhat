@@ -1,4 +1,16 @@
-# Final Project
+# Final Project - Steam Network
+The full write up can be found as file: guro8250-info4602-final.pdf
+<h2>Team Members:</h2>
+<ul>
+  <li>Guillermo Rodriguez</li>
+</ul>
+
+<h2>Abstract:</h2>
+     The Steam Network visualization was intended to allow users to visualize their steam friends within the context of a network visualization. This method allows users to understand how their friends, and communities are connected. With the use of the Steam Web API, this project queries a root user and then grabs all of their steam friends. Once the friends list has been gathered, the tool will then begin to query the friends list of all of the root users friends and call an additional API to grab all of their information which is then stored in a graph format for additional editing. When the finished visualization was completed there was several really interesting patterns which emerged and some interesting connections which will be discussed later on.
+     
+<img src="https://i.imgur.com/ZX59jYF.png">
+
+<hr>
 For your final project, use the skills you've developed in this class to tackle a new problem. For example, you could develop a visualization for a complex dataset, construct a physicalization, visualize an algorithmic process, or run an experiment to explore graphical perception. Be creative and have fun! 
 
 <h2>Requirements:</h2>
